@@ -1,3 +1,13 @@
+/*
+Imagine you are working on a scientific application that involves processing a multi-
+dimensional array. You need to implement a function that calculates the sum of all elements
+
+in this array. The array can contain nested arrays, forming a multi-dimensional structure
+represented as a jagged array. Write a C++ function int recursiveArraySum(int* arr[], int
+sizes[], int dim) that computes the sum of all the elements in such a multi-dimensional array.
+The sizes array contains the sizes of each dimension, and dim indicates the current dimension
+being processed.
+*/
 #include<iostream>
 using namespace std;
 
